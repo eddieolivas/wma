@@ -1,0 +1,60 @@
+/*
+Theme Name: Wma Child
+Theme URI: 
+Author: Syed Fasih Uddin
+Template: wma
+*/
+
+.search-listing li {
+	width: 33%;
+}
+
+#buddypress ul.item-list li img.avatar {
+	border: none;
+	float: none;
+	margin: 0;
+}
+
+#buddypress .gmw-results-wrapper ul.item-list li {
+	height: 350px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+#buddypress .gmw-results-wrapper ul.item-list li div.item-title {
+	text-align: center;
+	width: 100%;
+}
+
+#buddypress .gmw-results-wrapper ul.item-list li div.action {
+    position: relative;
+    display: block;
+    float: none;
+    margin: 10px 0;
+    text-align: center;
+    top: inherit;
+}
+
+aside#secondary {
+    float: right;
+    width: 24%;
+}
+
+div.gmw-fl-default-form-wrapper input[type="text"] {
+	margin: 0!important;
+	padding: 0!important;
+	margin-top: 0!important;
+}
+
+.bpchatFriendsHeader, .bpchatFriendsTitle {
+	background-color: #9d3392!important;
+	color: #fff;
+}
+
+.chat-member, .chatMemberList {
+	color: #fff!important;
+}
+
+.bpchatFriendsEvents i, .listOpenIcon {
+	color: #fff;
+}
